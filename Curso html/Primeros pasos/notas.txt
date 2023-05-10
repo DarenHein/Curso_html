@@ -1,0 +1,16 @@
+mis primeros inicios en html 
+
+el primer documento index.html habla sobre la creacion de el cuerpo que necesita nuestro html y las etiquetas <h></h> que son como titulos 
+
+el segundo documento que es index2.html habla sobre los parrafos en html <p> 
+
+el tercer documeto habla sobre la separacion <hr> que dibuja una linea en el documento que hace de separacion en este 
+
+en el cuarto documento hablamos de span y br 
+span sirve pra que las palbras que esten dentro de un parrafo y dentro del span sirvan para los motores de busqueda 
+br es como el \n de python y java para el salto de linea 
+
+quinto documento habla sobre la etiquetas de hipervinculo 
+estas ayudan para navegar en nustra propia red 
+
+sexto ducomento hablamos sobre img agregar imagenes a un html se puede desde la src hasta desde un url el tamaño largo y ancho de esta 
